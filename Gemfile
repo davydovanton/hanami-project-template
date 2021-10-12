@@ -9,7 +9,7 @@ gem 'rake'
 
 # http layer
 gem 'hanami', '1.3.0'
-gem 'puma', '~> 3.12.6'
+gem 'puma', '~> 4.3.9'
 
 # persistance layer
 gem 'hanami-model', '~> 1.3'
